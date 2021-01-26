@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import {Link as ReactRouterLink} from 'react-router-dom'
-import { Button } from '../opt-form/styles/opt-form'
+
 import {Background, 
         Link,
         Container, 
